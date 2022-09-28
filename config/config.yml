@@ -1,0 +1,6 @@
+port: "8080"
+
+db:
+  uri: "mongodb://u4acxyskuwieeh60bkxp:3bWgLI0dTBm4s53NdrXE@n1-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017,n2-c2-mongodb-clevercloud-customers.services.clever-cloud.com:27017/brxk3alfmnjcowj?replicaSet=rs0"
+  database: "brxk3alfmnjcowj"
+  collection: "employee"
